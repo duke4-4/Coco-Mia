@@ -408,14 +408,6 @@ background-color: white; }
   gap: 10px;
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #ABOUT
-\*-----------------------------------*/
-
 .about { background-color: white;
 color: black; }
 
@@ -457,9 +449,6 @@ color: black; }
 
 
 
-/*-----------------------------------*\
-  #SERVICE
-\*-----------------------------------*/
 
 .service { background-color: rgb(228, 175, 184)}
 
